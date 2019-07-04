@@ -1,4 +1,5 @@
 learning git
 asads
 dassad
-readmeddd
+readmedd
+Git is free software distributed under the GPL
